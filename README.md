@@ -4,6 +4,9 @@
 Test your reflexes, dodge obstacles, and see how long you can survive!  
 Play now 👉 **[Live Demo](https://sonicsteps.netlify.app/)**
 
+TRY OUT THE GAMEE 
+Leave a STAR if you enjoy. (:
+
 ---
 
 ## 📌 Features
