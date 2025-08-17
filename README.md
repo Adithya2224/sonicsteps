@@ -22,3 +22,14 @@ Play now 👉 **[Live Demo](https://sonicsteps.netlify.app/)**
 - **Netlify** (Deployment)
 
 ---
+
+<img width="1715" height="860" alt="Screenshot 2025-08-17 224944" src="https://github.com/user-attachments/assets/78c369fb-0c4d-4577-a4d9-60af93715a2f" />
+
+<img width="1602" height="797" alt="Screenshot 2025-08-17 225002" src="https://github.com/user-attachments/assets/d868c30a-eb24-42b9-9e23-6c86543b2e10" />
+
+<img width="1686" height="858" alt="Screenshot 2025-08-17 225016" src="https://github.com/user-attachments/assets/ea3965d3-4599-4607-bf15-f9382ced9607" />
+
+<img width="1699" height="868" alt="Screenshot 2025-08-17 225043" src="https://github.com/user-attachments/assets/9b8e13a8-c91e-4265-abef-60cfe22891d3" />
+
+<img width="1661" height="888" alt="Screenshot 2025-08-17 225336" src="https://github.com/user-attachments/assets/3f90ed4c-a439-4cc7-aad7-8951306f7bca" />
+
